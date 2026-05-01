@@ -2,9 +2,21 @@
 
 
 
-Name: Rabiul Islam
+\## Name
+
+Rabiul Islam
 
 
 
-This project demonstrates Git and GitHub workflow with Python.
+\## Description
+
+This project demonstrates Git workflow including:
+
+\- Commits
+
+\- Branching
+
+\- Merging
+
+\- GitHub integration
 
